@@ -1,0 +1,27 @@
+{
+  "name": "mu-th-ur-1000",
+  "version": "1.0.0",
+  "description": "Just a Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darklighterk25/mu-th-ur-1000.git"
+  },
+  "keywords": [
+    "mu-th-ur-1000",
+    "discord",
+    "bot"
+  ],
+  "author": "Rafreaky Weyland <https://github.com/darklighterk25>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darklighterk25/mu-th-ur-1000/issues"
+  },
+  "homepage": "https://github.com/darklighterk25/mu-th-ur-1000#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
